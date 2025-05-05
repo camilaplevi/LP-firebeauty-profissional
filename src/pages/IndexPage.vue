@@ -481,11 +481,11 @@ export default defineComponent({
   .card-description {
     color: $tertiary;
     font-size: 1.3rem;
-    line-height: 20px;
     margin-top: 3px;
 
     @media (min-width: 769px) {
       font-size: 0.7rem;
+      line-height: 15px;
     }
   }
 }
