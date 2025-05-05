@@ -290,7 +290,7 @@ export default defineComponent({
       font-size: 1.2rem;
       margin-left: 100px;
       margin-bottom: 40px;
-      width: auto;
+      width: 438px;
     }
   }
 
